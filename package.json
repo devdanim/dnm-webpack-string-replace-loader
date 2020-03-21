@@ -1,5 +1,5 @@
 {
-  "name": "string-replace-loader",
+  "name": "dnm-webpack-string-replace-loader",
   "version": "2.2.0",
   "description": "Replace loader for Webpack",
   "keywords": [
